@@ -15,39 +15,39 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="framework.h">
+    <ClInclude Include="src\Headers\framework.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pch.h">
+    <ClInclude Include="src\Headers\pch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="mem.h">
+    <ClInclude Include="src\Headers\mem.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="proc.h">
+    <ClInclude Include="src\Headers\proc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="signatures.h">
+    <ClInclude Include="src\Headers\signatures.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pattern.h">
+    <ClInclude Include="src\Headers\pattern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="dllmain.cpp">
+    <ClCompile Include="src\dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="src\pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="mem.cpp">
+    <ClCompile Include="src\mem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="proc.cpp">
+    <ClCompile Include="src\proc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pattern.cpp">
+    <ClCompile Include="src\pattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
